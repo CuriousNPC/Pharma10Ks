@@ -1,0 +1,8 @@
+[Database]
+dbname = your_db_name
+user = your_username
+password = your_password
+host = localhost
+
+[Filings]
+directory = path/to/your/10k/filings
